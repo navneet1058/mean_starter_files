@@ -1,3 +1,5 @@
+Boilerplate code for MEAN Stack Application
+
 From the command line navigate to this folder and run:
 1. npm install
 2. bower install
